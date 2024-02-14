@@ -1,0 +1,12 @@
+{"event_date":"20231005","event_timestamp":"1696470452486466","event_name":"scroll","ga_session_id":123526748,"engaged_session_event":1,"page_location":"https://mobile.deexam.ph/","percent_scrolled":90,"ignore_referrer":true,"page_title":"J's Angels"}
+{"event_date":"20231005","event_timestamp":"1696470418877027","event_name":"page_view","page_referrer":"http://m.facebook.com/","ga_session_number":1,"source":"m.facebook.com","entrances":1,"medium":"referral","session_engaged":0,"page_location":"https://web.deexam.ph/","campaign":"(referral)","ga_session_id":84321567,"page_title":"SuperJ","engaged_session_event":1}
+
+event_date,
+event_timestamp,
+event_name,
+ga_session_id,
+engaged_session_event,
+page_location,
+page_title,
+page_referrer,
+source
